@@ -1,7 +1,5 @@
 # 💫 About Me:
-Desenvolvedor Front-End <br>| C | C++ | JavaScript | HTML & CSS | Adobe Photoshop | Adobe Illustrator
-| Adobe InDesign | Adobe Dreamweaver | Adobe Acrobat
-
+Desenvolvedor Front-End
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuryfrontend) 
