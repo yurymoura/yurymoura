@@ -1,5 +1,6 @@
 # 💫 About Me:
-Desenvolvedor Front-End <br>C & C++ | JavaScript | HTML & CSS<br>Adobe Photoshop | Adobe Illustrator
+Desenvolvedor Front-End <br>| C | C++ | JavaScript | HTML & CSS | Adobe Photoshop | Adobe Illustrator
+| Adobe InDesign | Adobe Dreamweaver | Adobe Acrobat
 
 
 ## 🌐 Socials:
