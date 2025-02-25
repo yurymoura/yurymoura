@@ -2,7 +2,9 @@
 
 ###
 
-<p align="justify">Iniciei minha carreira como desenvolvedor Front-End em 2022, dando início ao curso em Ciência da Computação. Minha trajetória começou com a curiosidade em unir o design à tecnologia, motivado pelo desejo de criar experiências digitais visuais e funcionais. Foi então que dei os primeiros passos no mundo da programação, focando em linguagens e tecnologias voltadas ao desenvolvimento Front-End. Desde então, venho me dedicando ao estudo de linguagens como JavaScript, TypeScript e de suas tecnologias e ferramentas baseadas nessas linguagens como Angular, React e Node.js. Paralelamente, estou explorando conceitos de UX/UI design, o que me ajuda a aplicar soluções criativas e centradas ao usuário. Durante esse período, participei de projetos pessoais e colaborativos que me permitiram aplicar o conhecimento adquirido, superar desafios práticos e aprimorar minha lógica de programação.</p>
+<p align="justify">I started my career as a Front-End developer in 2022, the same year I began my Computer Science degree. My journey began with a curiosity to merge design and technology, driven by the desire to create both visually appealing and functional digital experiences. That’s when I took my first steps into the programming world, focusing on languages and technologies related to Front-End development.
+
+Since then, I have been dedicating myself to studying languages like JavaScript and TypeScript, along with frameworks and tools based on these languages, such as Angular, React, and Node.js. At the same time, I have been exploring UX/UI design concepts, which helps me apply creative and user-centered solutions. During this period, I have participated in personal and collaborative projects that allowed me to apply the knowledge I acquired, overcome practical challenges, and improve my programming logic.</p>
 
 ###
 
