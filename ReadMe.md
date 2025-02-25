@@ -1,4 +1,4 @@
-<h1 align="left">💻 Desenvolvedor Front-End</h1>
+<h1 align="left">💻 Front-End Developer</h1>
 
 ###
 
