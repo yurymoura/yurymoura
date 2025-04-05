@@ -2,7 +2,9 @@
 
 ###
 
-<p align="justify">I started my career as a Front-End developer in 2022, the same year I began my Computer Science degree. My journey began with a curiosity to merge design and technology, driven by the desire to create both visually appealing and functional digital experiences. That’s when I took my first steps into the programming world, focusing on languages and technologies related to Front-End development. Since then, I have been dedicating myself to studying languages like JavaScript and TypeScript, along with frameworks and tools based on these languages, such as Angular, React, and Node.js. At the same time, I have been exploring UX/UI design concepts, which helps me apply creative and user-centered solutions. During this period, I have participated in personal and collaborative projects that allowed me to apply the knowledge I acquired, overcome practical challenges, and improve my programming logic.</p>
+<p align="justify">I began my career as a developer in 2022 by starting a degree in Computer Science. My journey began with a curiosity to merge design with technology, driven by the desire to create digital experiences that are both visually appealing and functional. My work encompasses not only programming but also a strong emphasis on UX (User Experience), as I believe that user experience is a fundamental pillar in developing effective technological solutions.
+
+My commitment to excellence is reflected in my constant pursuit of innovation and continuous improvement. I stay attuned to the latest trends and best practices in the market, which enables me to adapt strategies and offer efficient solutions that add value to both projects and clients, ensuring that the delivered results are of the highest quality and consistency.</p>
 
 ###
 
