@@ -1,10 +1,10 @@
-<h1 align="left">💻 Front-End Developer</h1>
+<h1 align="left">💻 Desenvolvedor Front-End</h1>
 
 ###
 
-<p>I began my career as a developer in 2022 by starting a degree in Computer Science. My journey began with a curiosity to merge design with technology, driven by the desire to create digital experiences that are both visually appealing and functional. My work encompasses not only programming but also a strong emphasis on UX (User Experience), as I believe that user experience is a fundamental pillar in developing effective technological solutions.
+<p>Iniciei minha carreira como desenvolvedor em 2022, durante minha formação em Ciência da Computação, motivado pelo interesse em unir design, programação e experiência do usuário. Minha trajetória envolve atuação em diferentes camadas do desenvolvimento de software, explorando tanto o Front-End (interfaces dinâmicas e centradas no usuário) quanto o Back-End (integração de sistemas, APIs e lógica de negócios).
 
-My commitment to excellence is reflected in my constant pursuit of innovation and continuous improvement. I stay attuned to the latest trends and best practices in the market, which enables me to adapt strategies and offer efficient solutions that add value to both projects and clients, ensuring that the delivered results are of the highest quality and consistency.</p>
+Possuo experiências com JavaScript, TypeScript, Angular, React.js e Node.js, além de boas práticas em UX e colaborações em projetos com Git/GitHub e Figma. Essas combinações me permite criar soluções completas, que vão da concepção da interface até a sustentação técnica no servidor. Busco aplicar metodologias ágeis e acompanhar tendências do setor para garantir projetos escaláveis, eficientes e centrados nas necessidades reais dos usuários.</p>
 
 ###
 
