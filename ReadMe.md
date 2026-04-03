@@ -1,4 +1,4 @@
-<h1 align="left">Computer Science graduate and developer focused on building solutions that are technically solid and user-centered. Experienced across the full stack from front-end features to back-end services and integrations.</h1>
+<h1 align="justify">Computer Science graduate and developer focused on building solutions that are technically solid and user-centered. Experienced across the full stack from front-end features to back-end services and integrations.</h1>
 
 ###
 
