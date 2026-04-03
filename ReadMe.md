@@ -16,12 +16,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="70" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="70" alt="amazonwebservices logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/yurymoura/yurymoura/output/snake.svg" alt="Snake animation" />
-
-###
